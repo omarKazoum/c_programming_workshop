@@ -9,9 +9,10 @@ La formule : Mile = Km*1.609
 **/
 int main()
 {
-    float d;
-    printf("Bonjour entrez cette application vous aide a convertir la distence du Mette au Mile\n entrez la distence en Mettre\n");
-    scanf("%f",&d);
-    printf("%f m est egale a %f miles\n a bientot!",d,(d/1000.0f*1.609f));
+    float mettre;
+    printf("Bonjour cette application vous aide a convertir la distance du Mette au Mile\n entrez la distence en Mettre\n");
+    scanf("%2f",&metter);
+    float mille=mettre/1000.0*1.609;
+    printf("%f m est egale a %f miles\n a bientot!",mettre,mille);
     return 0;
 }
