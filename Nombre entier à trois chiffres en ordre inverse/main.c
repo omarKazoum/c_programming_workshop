@@ -11,9 +11,11 @@ int main()
     char temp=nbr[0];
     nbr[0]=nbr[2];
     nbr[2]=temp;
-    for(int i=0;i<3;i++){
+    /*for(int i=0;i<3;i++){
     	printf("%c",nbr[i]);
-    }
+    }*/
+    //this way it's even better
+    printf("%.3s",nbr);
 
     return 0;
 }
