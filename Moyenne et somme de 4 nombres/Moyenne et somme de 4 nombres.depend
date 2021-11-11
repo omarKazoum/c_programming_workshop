@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636627720 source:c:\users\error2\desktop\c_programming_workshop\moyenne et somme de 4 nombres\main.c
+	<stdio.h>
+	<stdlib.h>
+
