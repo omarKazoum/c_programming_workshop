@@ -11,6 +11,7 @@ int main()
     char temp=nbr[0];
     nbr[0]=nbr[2];
     nbr[2]=temp;
+    //TODO:: fix this
     printf("\n%s",nbr);
     return 0;
 }

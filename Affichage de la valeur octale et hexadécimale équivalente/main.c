@@ -21,6 +21,7 @@ int main()
     }
     printf("%s","\nen hexadecimal:" );
     //starting to convert the number to hex
+    //TODO:: fix this
     printf("%#02d",decNbrBackup);
 
     return 0;
