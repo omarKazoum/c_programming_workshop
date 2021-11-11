@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636627077 source:c:\users\error2\desktop\c_programming_workshop\calcule et affichage résultat en format décimal\main.c
+	<stdio.h>
+	<stdlib.h>
+
